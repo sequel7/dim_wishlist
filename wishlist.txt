@@ -1,4 +1,4 @@
-dimwishlist:item=*&perks=2030760728#notes:I have no use for Energy Transfer
+dimwishlist:item=-54&perks=2030760728#notes:I have no use for Energy Transfer
 
 dimwishlist:item=2481881293&perks=689005463,1556840489,1546637391#notes:boss killer
 dimwishlist:item=-69420&perks=878286503,689005463,1556840489,1546637391#notes:boss killer
