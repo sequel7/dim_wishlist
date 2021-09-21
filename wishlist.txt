@@ -7,3 +7,4 @@ dimwishlist:item=-69420&perks=3551326236,3425386926#notes:ad killer
 dimwishlist:item=54&perks=3708227201,3666208348#notes: good sword
 dimwishlist:item=54&perks=1546637391,3666208348#notes: good sword
 dimwishlist:item=54&perks=354401740,3666208348#notes: good sword
+dimwishlist:item=54&perks=3913600130,3666208348#notes: good sword
