@@ -9,3 +9,9 @@ dimwishlist:item=54&perks=3708227201,3666208348#notes: good sword
 dimwishlist:item=54&perks=1546637391,3666208348#notes: good sword
 dimwishlist:item=54&perks=354401740,3666208348#notes: good sword
 dimwishlist:item=54&perks=3913600130,3666208348#notes: good sword
+
+dimwishlist:item=3075224551&perks=1546637391,1687452232#notes:boss killer
+dimwishlist:item=3075224551&perks=1546637391,689005463#notes:boss killer
+
+dimwishlist:item=2481881293&perks=1546637391,1687452232#notes:boss killer
+dimwishlist:item=2481881293&perks=1546637391,689005463#notes:boss killer
