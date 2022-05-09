@@ -1,4 +1,4 @@
-/notes:Fel Taradiddle's to craft, draw time masterwork
+//notes:Fel Taradiddle's to craft, draw time masterwork
 dimwishlist:item=1399109800&perks=852209214,16392701,201365942,2652708987
 dimwishlist:item=1399109800&perks=852209214,16392701,201365942,3365897133
 
