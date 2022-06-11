@@ -1,3 +1,6 @@
+/notes:Beloved to craft, handling masterwork
+dimwishlist:item=3107853529&perks=1482024992,1885400500,2866798147,706527188
+
 //notes:Fel Taradiddles to craft, draw time masterwork
 dimwishlist:item=1399109800&perks=852209214,16392701,201365942,2652708987
 dimwishlist:item=1399109800&perks=852209214,16392701,201365942,3365897133
