@@ -1,3 +1,6 @@
+//notes:Tears of Contrition to craft, reload masterwork
+dimwishlist:item=1366394399&perks=839105230,106909392,1428297954,3038247973
+
 //notes:Beloved to craft, handling masterwork
 dimwishlist:item=3107853529&perks=1482024992,1885400500,2866798147,706527188
 
