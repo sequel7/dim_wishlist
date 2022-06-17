@@ -1,3 +1,6 @@
+//notes:Nezerecs Whisper to craft, range masterwork
+dimwishlist:item=254636484&perks=2713678205,679225683,951095735,4104185692
+
 //notes:Tears of Contrition to craft, reload masterwork
 dimwishlist:item=1366394399&perks=839105230,106909392,1428297954,3038247973
 
